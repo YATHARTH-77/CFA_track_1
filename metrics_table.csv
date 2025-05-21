@@ -1,0 +1,18 @@
+Metric,Value
+Cumulative Return (%),0.11435242141328054
+Annualized Return (%),0.02326631393025913
+Sharpe Ratio,0.22240156896781024
+Sortino Ratio,0.330365273823403
+Maximum Drawdown (%),0.1855738543709906
+Win Rate (%),54.54545454545454
+Profit Factor,1.4395097367638916
+Avg Profit,336.4921875
+Avg Loss,300.5417757524765
+Max Profit,989.9174194335938
+Max Loss,622.4775390625
+Nifty 50 Cumulative Return (%),"Ticker
+^NSEI    94.088248
+dtype: float64"
+Nifty 50 Annualized Return (%),"Ticker
+^NSEI    14.464502
+dtype: float64"
