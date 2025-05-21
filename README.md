@@ -91,7 +91,7 @@ Shows buy/sell signals plotted on Bollinger Bands.
 ## 📂 Project Structure
 
 mean-reversion-strategy/
-├── strategy.py # Full implementation (code)/n
+├── strategy.py # Full implementation (code)
 ├── metrics_table.csv # Tabular summary of metrics
 ├── equity_curve.png # Portfolio value over time
 ├── drawdown.png # Drawdown percentage over time
